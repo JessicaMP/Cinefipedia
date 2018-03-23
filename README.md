@@ -1,7 +1,8 @@
 # Cinefipedia
-Cinefipedia te ayuda con la información que necesitas de tus películas favoritas y las que deseas poner en tu lista de pendientes.
 
-![cinefipedia](https://user-images.githubusercontent.com/32303418/36360379-69619dfc-14f1-11e8-9499-d3bcf4bfed0e.png)
+Cinefipedia te brinda información que necesitas de tus películas favoritas y las que deseas poner en tu lista de pendientes.
+
+![Cinefipedia](https://user-images.githubusercontent.com/32301688/37808405-415734b2-2e18-11e8-9ad5-0af38ce225ba.png)
 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
