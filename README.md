@@ -4,7 +4,7 @@ Cinefipedia te brinda información que necesitas de tus películas favoritas y l
 
 ![Cinefipedia](https://user-images.githubusercontent.com/32301688/37808405-415734b2-2e18-11e8-9ad5-0af38ce225ba.png)
 
-## Desarrollado para
+#### Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
 ### Objetivo
