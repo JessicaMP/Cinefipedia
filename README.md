@@ -1,6 +1,6 @@
 # Cinefipedia
 
-Cinefipedia te brinda información que necesitas de tus películas favoritas y las que deseas poner en tu lista de pendientes.
+Cinefipedia es una web que te brinda información sobre películas de diferentes géneros, a su vez puedes guardar aquellas películas que deseas ver después, para ello solo necesitas registrarte.
 
 ![Cinefipedia](https://user-images.githubusercontent.com/32301688/37808405-415734b2-2e18-11e8-9ad5-0af38ce225ba.png)
 
