@@ -8,6 +8,7 @@ Cinefipedia es una web que te brinda información sobre películas de diferentes
 [Laboratoria](http://laboratoria.la)
 
 ***
+## Detalles del repositorio:
 
 ### Objetivo
 Crear un producto relacionado a películas respondiendo a las necesidades del usuario.
